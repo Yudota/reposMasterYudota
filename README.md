@@ -1,15 +1,15 @@
 # reposMasterYudota
-### Esse repo é um indexador, dos projetos que irei completar antes de morrer. 
+### Esse repositório é um indexador dos projetos que me comprometi a completar antes de morrer. 
 ---
 Irei desenvolver, ao longo do tempo, a metodologia de implementação do Domain-Driven-Design. Deixando totalmente livre os requisitos não-funcionais e "modularizando" os domínios pertinentes às soluções listadas. Irei a qualquer custo cumprir com esse desafio.
 
 
 - [Sistema de Gerenciamento Hospitalar](https://github.com/Yudota/Sistema-de-Gerenciamento-Hospitalar) - WIP
-
-- Plataforma de E-commerce
-Contexto: Comprar e vender produtos de forma online.
-Subdomínios possíveis:
-Catálogo de Produtos
+---
+### Plataforma de E-commerce
+#### Contexto: Comprar e vender produtos de forma online.
+#### Subdomínios possíveis:
+- Catálogo de Produtos
 Carrinho de Compras
 Processamento de Pagamentos
 Gestão de Estoque e Logística
